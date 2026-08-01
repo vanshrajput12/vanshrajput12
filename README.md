@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋 I'm Vansh Kumar
 
-<!--
-**vanshrajput12/vanshrajput12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Flutter Developer
 
-Here are some ideas to get you started:
+- 📱 Flutter & Dart
+- 🔥 Firebase
+- ☁️ REST APIs
+- 💻 Java
+- 🌱 Currently building All Medz
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+Flutter • Dart • Firebase • Git • Java
+
+## Projects
+
+- 🍔 Food Delivery App
+- 📰 Tech News App
+- 💊 Medicine Order App(All Medz)
+- 🌦 Weather App
+
+## Connect
+
+GitHub: https://github.com/vanshrajput12

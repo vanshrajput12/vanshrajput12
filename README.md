@@ -1,281 +1,120 @@
-<!-- ===================== HEADER ===================== -->
+# 👋 Hi, I'm Vansh Kumar
+
+<h3 align="center">
+  🚀 Flutter Developer | 💻 Java Developer | 🔥 Firebase | ☁️ REST APIs
+</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=220&section=header&text=Vansh%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=800&lines=Flutter+Developer+%F0%9F%93%B1;Dart+%7C+Firebase+%7C+REST+APIs+%F0%9F%94%A5;Building+Beautiful+Mobile+Apps+%F0%9F%9A%80;Turning+Ideas+Into+Reality+%E2%9C%A8" alt="Typing SVG"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/vanshrajput12">
-    <img src="https://img.shields.io/github/followers/vanshrajput12?label=Followers&style=for-the-badge&color=0072FF"/>
-  </a>
-  <a href="https://github.com/vanshrajput12">
-    <img src="https://komarev.com/ghpvc/?username=vanshrajput12&label=Profile%20Views&color=00C6FF&style=for-the-badge"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Flutter+Developer+%F0%9F%93%B1;Dart+%7C+Firebase+%7C+REST+APIs+%F0%9F%94%A5;Building+Beautiful+Mobile+Apps+%F0%9F%9A%80;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212897665-8b5e7f7b-4d8c-4c5e-b7c7-3d7d7f8c3d6e.gif"/>
-
-Hi! I'm **Vansh Kumar**, a passionate **Flutter Developer** who loves building modern, responsive and user-friendly mobile applications.
-
-🚀 I enjoy turning ideas into real-world applications.
-
-💙 My main focus is **Flutter & Dart**.
-
-🔥 I work with **Firebase, REST APIs and state management**.
-
-💻 I also have experience with **Java**.
-
-🌱 Currently building **All Medz** and a **Grocery App**.
-
-🎯 Always learning, improving and experimenting with new technologies.
-
-<br clear="right"/>
+* 📱 **Flutter & Dart Developer**
+* 🔥 Working with **Firebase**
+* ☁️ Building apps using **REST APIs**
+* 💻 Knowledge of **Java**
+* 🌱 Currently building **All Medz** and a **Grocery App**
+* 🚀 Passionate about creating smooth and user-friendly mobile applications
 
 ---
 
-# ⚡ Tech Stack
+## 🛠️ Tech Stack
 
-### 📱 Mobile Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio"/>
-</p>
-
-### 🔥 Backend & APIs
-
-<p>
-<img src="https://skillicons.dev/icons?i=firebase"/>
-<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
-
-### 💻 Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,dart"/>
-</p>
-
-### 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,java,git,github,androidstudio" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 My Projects
 
-<table>
-<tr>
+| Project                  | Description                                    |
+| ------------------------ | ---------------------------------------------- |
+| 🎯 **BMI Tracker**       | Health & fitness tracking Flutter app          |
+| 🍔 **Food Delivery App** | Food ordering application with API integration |
+| 📰 **Tech News App**     | Technology news application                    |
+| 💊 **All Medz**          | Medicine ordering application                  |
+| 🌦️ **Weather App**      | Weather information application                |
 
-<td width="50%">
+---
+
+## 📱 Featured Project
 
 ### 🎯 BMI Tracker
 
-A health and fitness application built with Flutter.
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400">
+</p>
 
-**Features**
+A Flutter-based BMI and health tracking application.
 
-* 📊 BMI calculation
-* 👣 Step tracking
-* 🔥 Streak tracking
-* 🔐 Google Authentication
-* ☁️ Firebase integration
-
-📱 **Available on Google Play**
-
-</td>
-
-<td width="50%">
-
-### 💊 All Medz
-
-A medicine ordering application currently under development.
-
-**Working on**
-
-* 🔐 Authentication
-* 💊 Medicine browsing
-* 🔎 Search
-* 🛒 Shopping functionality
-* 🔥 Firebase integration
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🍔 Food Delivery App
-
-A Flutter food delivery application.
-
-**Technologies**
-
-* Flutter
-* Dart
-* REST APIs
-* Provider
-* HTTP
-
-</td>
-
-<td width="50%">
-
-### 📰 Tech News App
-
-A modern technology news application.
-
-**Features**
-
-* 📰 News API
-* 🔎 Search
-* 📱 Responsive UI
-* 🎨 Modern design
-* 🧭 Bottom navigation
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🌦️ Weather App
-
-A weather application using API-based live weather data.
-
-**Features**
-
-* 🌍 Location-based weather
-* 🌡️ Temperature
-* ☁️ Weather conditions
-* 📊 Weather information
-
-</td>
-
-<td width="50%">
-
-### 🛒 Grocery App
-
-A grocery shopping application currently in development.
-
-**Focus**
-
-* 🛍️ Product browsing
-* 🔎 Search
-* 🛒 Cart
-* 🔐 Authentication
-* 💳 Future payment integration
-
-</td>
-
-</tr>
-</table>
+**Available on Google Play Store** 🚀
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=vanshrajput12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshrajput12&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=vanshrajput12&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshrajput12&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
-# 💻 Most Used Languages
+## 💻 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshrajput12&layout=donut&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshrajput12&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🐍 Contribution Activity
+## 🐍 My Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/vanshrajput12/vanshrajput12/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/vanshrajput12/vanshrajput12/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-# 🎯 Current Goals
+## 🌱 Currently Learning
 
 ```text
-Flutter Development     ████████████████████  90%
-Dart                    ████████████████████  90%
-Firebase                █████████████████░░░  85%
-REST APIs               █████████████████░░░  85%
-Provider                 ████████████████░░░░  80%
-Java                     ██████████████░░░░░░  70%
-Git & GitHub             █████████████████░░░  85%
+Flutter          ████████████████████  90%
+Dart             ████████████████████  90%
+Firebase         ████████████████░░░░  80%
+REST APIs        ████████████████░░░░  80%
+Java             ██████████████░░░░░░  70%
+Git & GitHub     ████████████████░░░░  80%
 ```
 
 ---
 
-# 🌱 Currently Working On
-
-```text
-📱 Flutter Applications
-🔥 Firebase Integration
-☁️ REST API Integration
-💊 All Medz
-🛒 Grocery Application
-🚀 Improving UI/UX
-```
-
----
-
-# 🏆 Developer Mindset
+## 🔗 Connect With Me
 
 <p align="center">
+  <a href="https://github.com/vanshrajput12">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-<img src="https://img.shields.io/badge/Code-Creating%20Solutions-0072FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Learn-Improve%20Everyday-00C6FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Build-Turn%20Ideas%20Into%20Apps-0072FF?style=for-the-badge"/>
-
+  <a href="https://leetcode.com/u/vanshkumar_36">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 </p>
 
 ---
 
-# 🔗 Let's Connect
+<h3 align="center">
+  💙 Thanks for visiting my profile!
+</h3>
 
 <p align="center">
-
-<a href="https://github.com/vanshrajput12">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/vanshkumar_36">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-### 💙 Thanks for visiting my profile!
-
-⭐ **If you like my projects, consider giving them a star!**
-
+  ⭐ Feel free to explore my repositories and projects!
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00C6FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>

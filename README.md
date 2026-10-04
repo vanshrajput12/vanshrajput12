@@ -44,11 +44,6 @@
 ## 📱 Featured Project
 
 ### 🎯 BMI Tracker
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400">
-</p>
-
 A Flutter-based BMI and health tracking application.
 
 **Available on Google Play Store** 🚀
@@ -68,14 +63,6 @@ A Flutter-based BMI and health tracking application.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshrajput12&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 My Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vanshrajput12/vanshrajput12/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---

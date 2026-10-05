@@ -1,82 +1,59 @@
 # 👋 Hi, I'm Vansh Kumar
 
 <h3 align="center">
-  🚀 Flutter Developer | 💻 Java Developer | 🔥 Firebase | ☁️ REST APIs
+  🚀 Flutter Developer | 💻 Java | 🔥 Firebase | ☁️ REST APIs
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Flutter+Developer+%F0%9F%93%B1;Dart+%7C+Firebase+%7C+REST+APIs+%F0%9F%94%A5;Building+Beautiful+Mobile+Apps+%F0%9F%9A%80;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Flutter+Developer+%F0%9F%93%B1;Dart+%7C+Firebase+%7C+REST+APIs+%F0%9F%94%A5;Building+Modern+Mobile+Apps+%F0%9F%9A%80" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-* 📱 **Flutter & Dart Developer**
-* 🔥 Working with **Firebase**
-* ☁️ Building apps using **REST APIs**
-* 💻 Knowledge of **Java**
-* 🌱 Currently building **All Medz** and a **Grocery App**
-* 🚀 Passionate about creating smooth and user-friendly mobile applications
+* 📱 **Flutter & Dart Developer** passionate about mobile app development
+* 🔥 Experienced with **Firebase, REST APIs & Authentication**
+* 💻 Knowledge of **Java, Git & GitHub**
+* 🛠️ Currently building **All Medz** & a **Grocery App**
+* 🌱 Always learning and improving my development skills
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,java,git,github,androidstudio" />
-</p>
+**Languages:**
+`Dart` · `Java`
+
+**Framework:**
+`Flutter`
+
+**Backend & APIs:**
+`Firebase` · `REST APIs`
+
+**Tools:**
+`Git` · `GitHub` · `Android Studio`
 
 ---
 
-## 🚀 My Projects
+## 📱 Featured Projects
 
-| Project                  | Description                                    |
-| ------------------------ | ---------------------------------------------- |
-| 🎯 **BMI Tracker**       | Health & fitness tracking Flutter app          |
-| 🍔 **Food Delivery App** | Food ordering application with API integration |
-| 📰 **Tech News App**     | Technology news application                    |
-| 💊 **All Medz**          | Medicine ordering application                  |
-| 🌦️ **Weather App**      | Weather information application                |
-
----
-
-## 📱 Featured Project
-
-### 🎯 BMI Tracker
-A Flutter-based BMI and health tracking application.
-
-**Available on Google Play Store** 🚀
+| 🚀 Project         | 🔎 Description                    |
+| ------------------ | --------------------------------- |
+| 🎯 **BMI Tracker** | BMI & health tracking Flutter app |
+| 💊 **All Medz**    | Medicine ordering application     |
+| 🛒 **Grocery App** | Grocery shopping & ordering app   |
+| 📰 **Tech News**   | Technology news application       |
+| 🍔 **FoodGo**      | Food ordering application         |
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshrajput12&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshrajput12&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-## 💻 Most Used Languages
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshrajput12&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vanshrajput12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshrajput12&theme=tokyonight&hide_border=true" height="165"/>
 </p>
-
----
-
-## 🌱 Currently Learning
-
-```text
-Flutter          ████████████████████  90%
-Dart             ████████████████████  90%
-Firebase         ████████████████░░░░  80%
-REST APIs        ████████████████░░░░  80%
-Java             ██████████████░░░░░░  70%
-Git & GitHub     ████████████████░░░░  80%
-```
 
 ---
 
@@ -86,22 +63,15 @@ Git & GitHub     ████████████████░░░░  8
   <a href="https://github.com/vanshrajput12">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
   <a href="https://leetcode.com/u/vanshkumar_36">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
----
-
-<h3 align="center">
-  💙 Thanks for visiting my profile!
-</h3>
-
 <p align="center">
-  ⭐ Feel free to explore my repositories and projects!
+  💙 <b>Thanks for visiting!</b> ⭐ Explore my repositories and projects.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
 </p>

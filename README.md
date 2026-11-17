@@ -53,16 +53,3 @@ I'm a Flutter developer who enjoys turning ideas into polished, user-friendly ap
 | 📰 [**Tech News**](https://github.com/vanshrajput12/tech-news) | Technology news reader | Flutter, REST API |
 
 ---
-
-## GitHub Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=vanshrajput12&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshrajput12&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages"/>
-</p>
-
----
-
-<p align="center">
-  <i>Code. Create. Learn. Repeat.</i>
-</p>

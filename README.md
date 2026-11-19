@@ -76,22 +76,7 @@ I'm a passionate **Flutter Developer** who loves transforming ideas into beautif
 
 ---
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vanshrajput12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshrajput12&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshrajput12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshrajput12&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</p>
-
----
 
 ## 🏆 Coding & Achievements
 
